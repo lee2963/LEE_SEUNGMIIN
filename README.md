@@ -2,7 +2,7 @@
  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
  <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
- <img src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=MySQL&logoColor=4479A1"> 
+ <img src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=MySQL&logoColor=blue"> 
 </div>
 
 ## BaekJoon
